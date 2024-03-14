@@ -5,6 +5,20 @@
 D4RK-INJECTOR V1.0 pass-gen 🔐
 A powerful and customizable password generator to meet all your security needs.
 
+# Installation
+
+* git clone https://github.com/Inj3ct4ble/Injectable-Pass-Gen/
+
+* cd Injectable-Pass-Gen
+
+* python3 main.py
+
+Requirements : python3 , termcolor 
+
+* pip install termcolor
+
+* apt install python3 -y
+
 
 # Features
  Generate random passwords with a click of a button
