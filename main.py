@@ -7,7 +7,7 @@ def generate_password(length, difficulty):
     elif difficulty == "medium":
         character_list = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
     elif difficulty == "hard":
-        character_list = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_#*"
+        character_list = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_#@"£_¥~*"
     else:
         raise ValueError("Invalid difficulty level")
 
