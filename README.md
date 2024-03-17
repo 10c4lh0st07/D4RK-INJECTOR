@@ -1,8 +1,4 @@
-# Injectable-Pass-Gen
-
-
-
-D4RK-INJECTOR V1.0 pass-gen 🔐
+# D4RK-INJECTOR V1.0 pass-gen 🔐
 A powerful and customizable password generator to meet all your security needs.
 
 # Installation
