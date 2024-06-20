@@ -5,7 +5,7 @@ A powerful and customizable password generator to meet all your security needs.
 
 * git clone https://github.com/10c4lh0st07/D4RK-INJECTOR/
 
-* cd Injectable-Pass-Gen
+* cd D4RK-INJECTOR
 
 * python3 main.py
 
