@@ -3,7 +3,7 @@ A powerful and customizable password generator to meet all your security needs.
 
 # Installation
 
-* git clone https://github.com/Inj3ct4ble/Injectable-Pass-Gen/
+* git clone https://github.com/10c4lh0st07/D4RK-INJECTOR/
 
 * cd Injectable-Pass-Gen
 
