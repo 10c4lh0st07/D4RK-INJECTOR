@@ -22,7 +22,7 @@ Requirements : python3 , termcolor
  Includes numbers, uppercase and lowercase letters, and symbols
  Copy password to clipboard with one click
  User-friendly and modern interface
-Made with ❤ by [ UnKn0wN-Netw0rk ]
+Made with ❤ by [ 10c4lh0st07 ]
 
 Get your D4RK-INJECTOR V1.0 pass-gen now and secure your accounts with strong and unique passwords!
 
